@@ -1,0 +1,2 @@
+# loadouts
+Gestion des loadouts
